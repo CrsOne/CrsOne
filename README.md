@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi everyone 👋
+
+I'm a backend developer based on Santiago, Chile
+
+I'm currently Senior Software Engineer on [RiskAmerica](https://www.riskamerica.com)
+
+
 
 <!--
 **CrsOne/CrsOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
